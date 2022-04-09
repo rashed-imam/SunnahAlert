@@ -1,0 +1,7 @@
+# PostgreSQL
+# ------------------------------------------------------------------------------
+POSTGRES_HOST=postgres
+POSTGRES_PORT=5432
+POSTGRES_DB=sunnah_alert
+POSTGRES_USER=CvoIFRiynvfgODAfzUlKVIMAvipIsEGR
+POSTGRES_PASSWORD=Jwl4gw6aemp7laPSeOjOle0C7RM7hMfGS3iladOU65arqpq3dMfHPrTs4g01vFF2
